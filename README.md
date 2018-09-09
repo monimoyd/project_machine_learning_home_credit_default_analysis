@@ -19,7 +19,7 @@ already has all the above packages needed for this project
 ## Organization of files:
 
 * proposal.pdf - This file contains the project proposal in pdf format
-* home_credit_default_analysis_project.pdf - PDF file for the project
+* project.pdf - PDF file for the project
 * home_credit_default_analysis_project.ipynb - Jupyter notebook for the project
 * home_credit_default_analysis_project.html - HTML file for the project
 * visual.py - A python helper file (from Udacity)
